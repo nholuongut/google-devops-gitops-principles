@@ -92,7 +92,7 @@ If you do require additional assitance to setup Workload Identity Federation hav
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
 
 ![](https://i.imgur.com/waxVImv.png)
-![](Donate.png)
+![](Donate.jpg)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 # License🇻
